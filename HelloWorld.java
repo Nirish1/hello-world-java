@@ -4,8 +4,8 @@ public class HelloWorld {
     System.out.println(i);
     
     System.out.println("Hello world!");
-    System.out.println("welcome to Nirish");
-    System.out.println("welcome to siree");
-    System.out.println("thank you ");
+    System.out.println("welcome to Kiran");
+    System.out.println("welcome to Phani");
+    System.out.println("phani is 1 bullshit guy ");
   }
 }
