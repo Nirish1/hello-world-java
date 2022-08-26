@@ -9,7 +9,7 @@ This is the source code of the program:
 ```java
 public class HelloWorld {
   public static void main(String[] args) {
-    for (i=0, i<10, i++)
+    for (i=0; i<10; i++)
     System.out.println(i);
   }
 }
